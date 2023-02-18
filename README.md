@@ -1,5 +1,5 @@
 ## ~ 77th-director-bot ~
-<p>use flask to create a web server that the bot runs so can constantly ping the website every 5 minutes and keep the bot running</p>
+<p>Developed a bot on the social platform, Discord using the Discord.py Python library. The bot is mainly used by Genshin Impact players/fans and is based on the popular game character 'Hu Tao'. Flask was used to create a web server that is pinged every 5 minutes using UptimeRobot. This is so the bot can run the web server and maintain uptime.</p>
 
 ## Tech Used:
 - [Python](https://www.python.org/)
