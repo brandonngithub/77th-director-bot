@@ -1,5 +1,4 @@
 ## ~ 77th-director-bot ~
-[LIVE DEMO](https://brandonngithub.github.io/etch-a-sketch/)
 <p>use flask to create a web server that the bot runs so can constantly ping the website every 5 minutes and keep the bot running</p>
 
 ## Tech Used:
